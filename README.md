@@ -1,8 +1,32 @@
-# 👋 Hi, I'm Humphrey Lidwaji
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Hi+I'm+Humphrey+Lidwaji;Linux+System+Administrator;PHP+Developer;Healthcare+Systems+Builder;ClinicEMR+Core+Developer" alt="Typing SVG" />
+</p>
+
+---
 
 🚑 **Linux System Administrator** | 💻 **PHP Developer** | 🏥 **Healthcare Systems Builder**
 
 I’m a **Linux System Administrator with 3+ years of experience in a hospital environment**, and a **core PHP developer at ClinicEMR (OpenSolutions)** — where we built a healthcare system **from nothing to production**.
+
+I specialize in **real-world healthcare systems** that must be **secure, reliable, and available 24/7**.
+
+---
+
+## 🧠 Currently Working On
+
+🏥 **ClinicEMR – Kenyan Clinic Procedural System (PHP)**  
+Actively developing and refining a **procedural PHP-based EMR** tailored specifically for **Kenyan clinics and hospitals**, based on real clinical workflows.
+
+**Current focus areas:**
+- 🇰🇪 Kenyan clinic & hospital procedures (OPD, IP, Emergency)
+- 🧾 NHIF-ready billing & invoicing workflows
+- 💊 Pharmacy billing, stock deduction & sales reports
+- 📦 Inventory, procurement & stock movement tracking
+- 🔐 Role-Based Access Control (RBAC)
+- 📊 HMIS-ready reports & audit trails
+- ⚙️ Performance tuning, memory optimization & production stability
+
+> Built for **daily clinical use**, not demos.
 
 ---
 
@@ -11,7 +35,7 @@ I’m a **Linux System Administrator with 3+ years of experience in a hospital e
 - 🐧 Linux system administration in **hospital production environments**
 - 🧠 Design & development of **ClinicEMR** from the ground up
 - ⚙️ Backend development using **PHP (CodeIgniter & Laravel)**
-- 🗄️ Database design & optimization
+- 🗄️ Database design & optimization (MySQL / MariaDB)
 - 🔐 Server security, backups & access control
 - 📊 Clinical, pharmacy, billing & inventory integrations
 
@@ -39,7 +63,7 @@ I’m a **Linux System Administrator with 3+ years of experience in a hospital e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" />
 </p>
 
-### 🌐 Web & DevOps
+### 🌐 Web, DevOps & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" />
@@ -53,9 +77,9 @@ I’m a **Linux System Administrator with 3+ years of experience in a hospital e
 
 ### 🏥 ClinicEMR (OpenSolutions)
 
-A **production-ready Electronic Medical Records system** built from scratch for real hospital use.
+A **production-ready Electronic Medical Records (EMR) system** built from scratch for **real hospital use**.
 
-**Key Modules**
+**Core Modules**
 - Patient Registration & Visits
 - OPD / IP / Emergency workflows
 - Pharmacy & Inventory Management
@@ -63,6 +87,8 @@ A **production-ready Electronic Medical Records system** built from scratch for 
 - HR & Payroll
 - Role-Based Access Control (RBAC)
 - Reports & Audit Logs
+
+> Designed for **high-pressure healthcare environments**.
 
 ---
 
@@ -75,7 +101,7 @@ A **production-ready Electronic Medical Records system** built from scratch for 
 ## 📫 Contact Me
 
 - 📧 **Email:** humphreylidwaji@proton.me  
-- 💼 **GitHub:** https://github.com/humphreylidwaji  
+- 💼 **GitHub:** https://github.com/HumphreyLidwaji  
 
 ---
 
