@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Hi+I'm+Humphrey+Lidwaji;Linux+System+Administrator;PHP+Developer;Healthcare+Systems+Builder;ClinicEMR+Core+Developer" alt="Typing SVG" />
 </p>
 
+> ⚠️ **Important Notice:** This system is a **prototype only** and **not production ready**.  
+> Use it **at your own risk**.  
+> I **do not accept any responsibility** for damages or data loss resulting from its use.  
+> All data in this system is **fictitious and does not represent real people or medical information**.
+
 ---
 
 🚑 **Linux System Administrator** | 💻 **PHP Developer** | 🏥 **Healthcare Systems Builder**
