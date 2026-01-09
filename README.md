@@ -1,16 +1,90 @@
-## Hi there 👋
+# 👋 Hi, I'm Humphrey Lidwaji
 
-<!--
-**HumphreyLidwaji/HumphreyLidwaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚑 **Linux System Administrator** | 💻 **PHP Developer** | 🏥 **Healthcare Systems Builder**
 
-Here are some ideas to get you started:
+I’m a **Linux System Administrator with 3+ years of experience in a hospital environment**, and a **core PHP developer at ClinicEMR (OpenSolutions)** — where we built a healthcare system **from nothing to production**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in **secure, reliable, and scalable hospital systems**, bridging healthcare workflows with solid backend engineering.
+
+---
+
+## 🏥 What I Do
+
+- 🐧 Linux system administration in **hospital production environments**
+- 🧠 Design & development of **ClinicEMR** from the ground up
+- ⚙️ Backend development using **PHP (CodeIgniter & Laravel)**
+- 🗄️ Database design & optimization (MySQL / MariaDB)
+- 🔐 Server security, backups & access control
+- 📊 Integration of clinical, pharmacy, billing & inventory systems
+
+---
+
+## 🛠️ Tech Stack
+
+**Operating Systems**
+- Linux (Debian, Ubuntu, RHEL-based)
+
+**Backend**
+- PHP (CodeIgniter 3 & 4, Laravel)
+- REST APIs
+- AJAX / JSON
+
+**Databases**
+- MySQL
+- MariaDB
+
+**DevOps / SysAdmin**
+- Nginx / Apache
+- Bash scripting
+- Cron jobs
+- Server hardening
+- Backups & disaster recovery
+- Monitoring & logs
+
+**Healthcare Systems**
+- EMR / HMIS workflows
+- Patient visits, billing & pharmacy
+- Inventory & procurement systems
+- Role-Based Access Control (RBAC)
+
+---
+
+## 🚀 Featured Project
+
+### 🏥 ClinicEMR (OpenSolutions)
+A full-featured **Electronic Medical Records system** built from scratch.
+
+**Modules include:**
+- Patient Registration & Visits
+- OPD / IP / Emergency workflows
+- Pharmacy & Stock Management
+- Billing & Invoicing
+- Inventory & Procurement
+- HR & Payroll
+- Role & Permission Management
+- Reports & Audit Logs
+
+> Built with real hospital needs in mind — **not theory**
+
+---
+
+## 💡 Philosophy
+
+> “Build systems that work when lives depend on them.”
+
+I believe in:
+- Clean, maintainable code
+- Secure-by-default infrastructure
+- Systems designed for **real-world healthcare pressure**
+- Learning by building
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **humphreylidwaji@proton.me**
+- 💼 GitHub: [https://github.com/humphreylidwaji](https://github.com/humphreylidwaji)
+
+---
+
+⭐ If you like what I build, feel free to **star, fork, or collaborate**.
