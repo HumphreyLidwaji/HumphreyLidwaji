@@ -20,7 +20,7 @@ It includes endpoint monitoring, network IDS, threat intelligence, and DFIR tool
 - Built-in security hardening & self-healing  
 
 ### 🔗 Learn More
-- [AmfreOS Website](https://sourceforge.net/projects/amfreos/)  
+- [AmfreOS Website]([https://sourceforge.net/projects/amfreos/](https://sourceforge.net/projects/amfreos/))  
 - [GitHub Repository](https://github.com/HumphreyLidwaji)  
 
 ---
