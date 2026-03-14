@@ -10,9 +10,7 @@ It includes endpoint monitoring, network IDS, threat intelligence, and DFIR tool
 |------|---------|--------|
 | ![Wazuh](https://img.shields.io/badge/Wazuh-Log%20Monitoring-blue) | Endpoint monitoring, log analysis, and auto-enrollment | |
 | ![Suricata](https://img.shields.io/badge/Suricata-Network%20IDS-red) | Real-time network intrusion detection | |
-| ![TheHive](https://img.shields.io/badge/TheHive-Incident%20Response-orange) | Case tracking & incident management |  |
-| ![MISP](https://img.shields.io/badge/MISP-Threat%20Intel-yellow) | Threat intelligence sharing & enrichment | |
-| ![Velociraptor](https://img.shields.io/badge/Velociraptor-DFIR-green) | Endpoint forensic analysis & investigation | |
+
 
 ### ⚙️ Features
 - Automatic SOC deployment with **one command**  
